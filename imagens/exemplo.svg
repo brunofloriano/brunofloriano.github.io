@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="Caderno aberto sobre fundo escuro">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1b1b1b"/>
+      <stop offset="1" stop-color="#0d0d0d"/>
+    </linearGradient>
+    <linearGradient id="page" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2a2a2a"/>
+      <stop offset="1" stop-color="#202020"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <g opacity="0.06" stroke="#E2E8F0">
+    <path d="M0 105H1200M0 210H1200M0 315H1200M0 420H1200M0 525H1200"/>
+    <path d="M150 0V630M300 0V630M450 0V630M600 0V630M750 0V630M900 0V630M1050 0V630"/>
+  </g>
+  <ellipse cx="600" cy="505" rx="390" ry="26" fill="#000" opacity="0.55"/>
+  <path d="M600 150 C520 128 360 126 230 150 L230 490 C360 466 520 468 600 492 Z" fill="url(#page)" stroke="#3a3a3a" stroke-width="2"/>
+  <path d="M600 150 C680 128 840 126 970 150 L970 490 C840 466 680 468 600 492 Z" fill="url(#page)" stroke="#3a3a3a" stroke-width="2"/>
+  <path d="M600 150 V492" stroke="#111" stroke-width="3"/>
+  <g stroke="#94A3B8" stroke-width="6" stroke-linecap="round" opacity="0.55">
+    <path d="M280 205 H520"/>
+    <path d="M280 245 H545"/>
+    <path d="M280 285 H500"/>
+    <path d="M280 325 H540"/>
+    <path d="M280 365 H460"/>
+    <path d="M660 205 H900"/>
+    <path d="M660 245 H880"/>
+  </g>
+  <rect x="660" y="285" width="250" height="140" rx="8" fill="#151515" stroke="#3a3a3a" stroke-width="2"/>
+  <path d="M672 410 L740 345 L790 385 L835 350 L898 410 Z" fill="#475569" opacity="0.8"/>
+  <circle cx="860" cy="318" r="14" fill="#E2E8F0" opacity="0.8"/>
+  <text x="600" y="580" text-anchor="middle" font-family="Georgia, serif" font-size="26" fill="#94A3B8" letter-spacing="2">imagens/exemplo.svg</text>
+</svg>
