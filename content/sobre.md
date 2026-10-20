@@ -8,9 +8,9 @@ Este é o meu caderno público: um lugar para registrar ideias, aprendizados e a
 
 ## O que você vai encontrar aqui
 
-- Textos sobre tecnologia, engenharia e o que mais der vontade de escrever
+- Textos sobre ciência, tecnologia, música, entretenimento e o que mais der vontade de escrever
 - Notas de estudo e referências que valem a pena guardar
-- Reflexões curtas, de vez em quando
+- Reflexões curtas e pensamentos aleatórios
 
 ## Sobre este site
 
