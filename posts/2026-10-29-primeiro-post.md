@@ -18,7 +18,7 @@ Além da possibilidade de escrever textos maiores e reflexões mais aprofundadas
 
 ## Como eu construí esse site?
 
-Não vou negar, eu *vibe codei* esse site com a ajuda do Claude kkkkk A minha ideia era ter um site mais minimalista sem muitas coisas para poder focar nos posts e na escrita.
+Não vou negar, eu **vibe codei** esse site com a ajuda do Claude kkkkk A minha ideia era ter um site mais minimalista sem muitas coisas para poder focar nos posts e na escrita.
 
 Lá no topo você vai encontrar uma barra de buscas, informações para contato e uma aba para encontrar posts por tema. Sinta-se livre para me mandar emails me dando feedbacks ou só comentando alguma coisa do blog, mas seja respeitoso!
 
