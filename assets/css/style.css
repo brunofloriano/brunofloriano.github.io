@@ -246,7 +246,7 @@ main.wrap { flex: 1; padding-top: 2.75rem; padding-bottom: 3.5rem; outline: none
 
 .prose img { display: block; max-width: 100%; height: auto; border-radius: 6px; margin: 2rem auto; }
 .prose p > img:only-child { margin: 2rem auto; }
-.prose img + em, .prose p > em:only-child { display: block; text-align: center; font-family: var(--font-ui); font-style: normal; font-size: 0.82rem; color: var(--muted); margin-top: -1.25rem; }
+.prose img + em { display: block; text-align: center; font-family: var(--font-ui); font-style: normal; font-size: 0.82rem; color: var(--muted); margin-top: -1.25rem; }
 
 .prose hr { border: 0; height: 1px; background: var(--border); margin: 2.75rem 0; }
 
