@@ -22,7 +22,7 @@ Georgios surge dessa batalha, filho de Laios e Polychronia, nascido em Lida, uma
 
 > No fim, nada disso importa, não é? Riqueza, poder, influência, conquistas. Todas essas coisas são inúteis diante da morte.
 
-A história de Laios consome aproximadamente 200 das 856 páginas. Não são páginas ruins, mas certamente não dão o ânimo inicial que o livro pede. Neste momento, o contexto político da cidade acaba sendo mais protagonista que os membros da família Graco. Essa lentidão prejudica um pouco o ritmo da leitura, mas ajudam a construir a base da tragédia de Georgios.
+A história de Laios consome aproximadamente 200 das 586 páginas. Não são páginas ruins, mas certamente não dão o ânimo inicial que o livro pede. Neste momento, o contexto político da cidade acaba sendo mais protagonista que os membros da família Graco. Essa lentidão prejudica um pouco o ritmo da leitura, mas ajudam a construir a base da tragédia de Georgios.
 
 A partir do terceiro tomo, o livro toma outra direção, focando totalmente em Georgios. Levado a uma aventura indesejada, o futuro santo apresenta ao leitor finalmente sua personalidade: ele não é o garoto indefeso do início do livro, mas um adolescente ávido por batalhas, por aventuras e por vingança. Mas sua determinação vai de encontro com a brutalidade da vida no império para quem não tem patente, então o jeito vai ser se virar.
 
